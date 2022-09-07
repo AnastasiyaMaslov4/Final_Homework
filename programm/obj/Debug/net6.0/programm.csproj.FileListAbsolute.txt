@@ -1,0 +1,15 @@
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\obj\Debug\net6.0\programm.csproj.AssemblyReference.cache
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\obj\Debug\net6.0\programm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\obj\Debug\net6.0\programm.AssemblyInfoInputs.cache
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\obj\Debug\net6.0\programm.AssemblyInfo.cs
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\obj\Debug\net6.0\programm.csproj.CoreCompileInputs.cache
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\bin\Debug\net6.0\programm.exe
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\bin\Debug\net6.0\programm.deps.json
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\bin\Debug\net6.0\programm.runtimeconfig.json
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\bin\Debug\net6.0\programm.dll
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\bin\Debug\net6.0\programm.pdb
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\obj\Debug\net6.0\programm.dll
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\obj\Debug\net6.0\refint\programm.dll
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\obj\Debug\net6.0\programm.pdb
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\obj\Debug\net6.0\programm.genruntimeconfig.cache
+C:\Users\komma\OneDrive\Рабочий стол\IT\C#\FinalHomework\programm\obj\Debug\net6.0\ref\programm.dll
